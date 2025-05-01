@@ -36,9 +36,8 @@
           </v-card-title>
           <v-card-text class="mb-4">
             <span
-              >Hai pe Discord, Twitch sau Instagram pentru a fi la curent cu tot
-              ce facem.</span
-            >
+              >Hai pe Discord sau Twitch pentru a fi la curent cu tot ce facem.
+            </span>
           </v-card-text>
 
           <div class="d-flex justify-center flex-wrap">
@@ -46,7 +45,11 @@
             <v-btn
               href="https://discord.gg/zKGxdH8jk4"
               target="_blank"
-              style="background-color: #5865f2; text-transform: none; color: white;"
+              style="
+                background-color: #5865f2;
+                text-transform: none;
+                color: white;
+              "
               class="mb-2 mr-3"
             >
               <svg
@@ -75,7 +78,7 @@
                       stroke-dashoffset: 0;
                       stroke-linejoin: miter;
                       stroke-miterlimit: 4;
-                      fill: #FFFFFF;
+                      fill: #ffffff;
                       fill-rule: nonzero;
                       opacity: 1;
                     "
@@ -92,7 +95,11 @@
             <v-btn
               href="https://www.twitch.tv/iustin_hvnds"
               target="_blank"
-              style="background-color: #9146ff; text-transform: none; color: white;"
+              style="
+                background-color: #9146ff;
+                text-transform: none;
+                color: white;
+              "
               class="mb-2"
             >
               <svg
@@ -122,7 +129,7 @@
                       stroke-dashoffset: 0;
                       stroke-linejoin: miter;
                       stroke-miterlimit: 4;
-                      fill: #FFFFFF;
+                      fill: #ffffff;
                       fill-rule: nonzero;
                       opacity: 1;
                     "
